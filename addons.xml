@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.globus-addons" name="Repo Globus Addons" version="1.0.0" provider-name="raven">
 	<extension point="xbmc.addon.repository" name="raven">
-		<info compressed="true">https://github.com/javathon/repo/master/addons.xml</info>
-		<checksum>https://github.com/javathon/repo/master/addons.xml.md5</checksum>
+		<info compressed="true">https://raw.githubusercontent.com/javathon/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/javathon/repo/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/javathon/repo/tree/master/addons/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
