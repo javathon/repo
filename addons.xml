@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 <addons>
-	<addon id="script.tvglobus" name="Globus TV" version="1.2.1" provider-name="raven">
+	<addon id="script.tvglobus" name="Globus TV" version="1.2.2" provider-name="raven">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.simplejson" version="2.0.10"/>
@@ -55,7 +55,7 @@
 			<forum>http://www.kardsharing-forum.org</forum>
 			<website>https://github.com/javathon</website>
 			<email>noname@noname.de</email>
-			<source>https://github.com/javathon/script.tvglobus/tree/master</source>
+			<source>https://github.com/javathon/script.tvglobus</source>
 		</extension>
 	</addon>
 </addons>
